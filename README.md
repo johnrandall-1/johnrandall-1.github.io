@@ -4,8 +4,11 @@ My Github pages website
 [Github](https://johnrandall-1.github.io)
 
 John Randall
+
 Class of 2026
+
 Davis Hall
+
 
 Goals for this year:
 - Learn basic website and function coding in JavaScript
